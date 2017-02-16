@@ -1,9 +1,9 @@
+***No changes yet***
+
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
 </div>
 -----------------
-
-***No changes yet***
 
 | **`Linux CPU`** | **`Linux GPU`** | **`Mac OS CPU`** | **`Windows CPU`** | **`Android`** |
 |-----------------|---------------------|------------------|-------------------|---------------|
